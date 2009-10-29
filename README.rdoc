@@ -1,0 +1,4 @@
+= Description
+dabuttonfactory.com is a site for generating typical website buttons, with a simple API involving a straight forward GET to a url with params to define the button's details.
+
+This is a simple ruby wrapper for that api.
